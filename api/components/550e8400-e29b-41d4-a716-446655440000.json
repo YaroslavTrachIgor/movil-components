@@ -13,8 +13,8 @@
     "defi"
   ],
   "imageURLs": [
-    "https://raw.githubusercontent.com/YaroslavTrachIgor/movil-components/main/assets/images/crypto-swap-light.png",
-    "https://raw.githubusercontent.com/YaroslavTrachIgor/movil-components/main/assets/images/crypto-swap-dark.png"
+    "https://raw.githubusercontent.com/YaroslavTrachIgor/movil-components/assets/images/crypto-swap-light.png",
+    "https://raw.githubusercontent.com/YaroslavTrachIgor/movil-components/assets/images/crypto-swap-dark.png"
   ],
   "fileURLs": [],
   "isFavorite": false,
