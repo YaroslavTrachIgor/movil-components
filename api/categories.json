@@ -1,0 +1,191 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-11T00:00:00Z",
+  "categories": [
+    {
+      "id": "feeds",
+      "name": "Feeds",
+      "description": "Social feed components including posts, stories, and timeline views",
+      "icon": "list.bullet",
+      "componentCount": 0
+    },
+    {
+      "id": "article",
+      "name": "Article",
+      "description": "Article readers, blog post layouts, and content display components",
+      "icon": "doc.text",
+      "componentCount": 0
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "description": "Learning management, course displays, and educational content components",
+      "icon": "graduationcap",
+      "componentCount": 0
+    },
+    {
+      "id": "news",
+      "name": "News",
+      "description": "News article cards, breaking news alerts, and media layouts",
+      "icon": "newspaper",
+      "componentCount": 0
+    },
+    {
+      "id": "finance",
+      "name": "Finance",
+      "description": "Financial dashboards, stock tickers, and portfolio management views",
+      "icon": "chart.line.uptrend.xyaxis",
+      "componentCount": 0
+    },
+    {
+      "id": "banking",
+      "name": "Banking",
+      "description": "Banking interfaces, transaction lists, and account management components",
+      "icon": "building.columns",
+      "componentCount": 0
+    },
+    {
+      "id": "crypto",
+      "name": "Crypto",
+      "description": "Cryptocurrency wallets, trading interfaces, and blockchain components",
+      "icon": "bitcoinsign.circle",
+      "componentCount": 1
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "description": "Health tracking, medical records, and wellness monitoring components",
+      "icon": "heart.text.square",
+      "componentCount": 0
+    },
+    {
+      "id": "medicine",
+      "name": "Medicine",
+      "description": "Medical interfaces, prescription management, and healthcare components",
+      "icon": "cross.case",
+      "componentCount": 0
+    },
+    {
+      "id": "journaling",
+      "name": "Journaling",
+      "description": "Journal entries, note-taking, and personal diary components",
+      "icon": "book.closed",
+      "componentCount": 0
+    },
+    {
+      "id": "management",
+      "name": "Management",
+      "description": "Project management, task tracking, and organizational tools",
+      "icon": "checklist",
+      "componentCount": 0
+    },
+    {
+      "id": "hr",
+      "name": "HR",
+      "description": "Human resources, employee management, and recruitment components",
+      "icon": "person.3",
+      "componentCount": 0
+    },
+    {
+      "id": "ecommerce",
+      "name": "E-Commerce",
+      "description": "Shopping carts, product listings, and checkout flows",
+      "icon": "cart",
+      "componentCount": 0
+    },
+    {
+      "id": "social",
+      "name": "Social",
+      "description": "Social networking, user profiles, and community features",
+      "icon": "bubble.left.and.bubble.right",
+      "componentCount": 0
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment",
+      "description": "Media players, content discovery, and entertainment interfaces",
+      "icon": "play.rectangle",
+      "componentCount": 0
+    },
+    {
+      "id": "travel",
+      "name": "Travel",
+      "description": "Trip planning, booking interfaces, and travel guides",
+      "icon": "airplane",
+      "componentCount": 0
+    },
+    {
+      "id": "fitness",
+      "name": "Fitness",
+      "description": "Workout tracking, exercise logs, and fitness monitoring",
+      "icon": "figure.run",
+      "componentCount": 0
+    },
+    {
+      "id": "food",
+      "name": "Food",
+      "description": "Restaurant menus, recipe displays, and food ordering interfaces",
+      "icon": "fork.knife",
+      "componentCount": 0
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity",
+      "description": "To-do lists, calendars, and productivity enhancement tools",
+      "icon": "checkmark.circle",
+      "componentCount": 0
+    },
+    {
+      "id": "communication",
+      "name": "Communication",
+      "description": "Messaging, chat interfaces, and communication tools",
+      "icon": "message",
+      "componentCount": 0
+    },
+    {
+      "id": "utilities",
+      "name": "Utilities",
+      "description": "Utility tools, calculators, and helper components",
+      "icon": "wrench.and.screwdriver",
+      "componentCount": 0
+    }
+  ],
+  "platforms": [
+    {
+      "id": "ios",
+      "name": "iOS",
+      "description": "iPhone optimized components",
+      "icon": "iphone"
+    },
+    {
+      "id": "ipados",
+      "name": "iPadOS",
+      "description": "iPad optimized components with larger layouts",
+      "icon": "ipad"
+    },
+    {
+      "id": "macos",
+      "name": "macOS",
+      "description": "Desktop Mac optimized components",
+      "icon": "macbook"
+    },
+    {
+      "id": "watchos",
+      "name": "watchOS",
+      "description": "Apple Watch optimized components",
+      "icon": "applewatch"
+    },
+    {
+      "id": "visionos",
+      "name": "visionOS",
+      "description": "Apple Vision Pro spatial computing components",
+      "icon": "visionpro"
+    },
+    {
+      "id": "multiplatform",
+      "name": "Multiplatform",
+      "description": "Cross-platform SwiftUI components",
+      "icon": "square.stack.3d.up"
+    }
+  ]
+}
