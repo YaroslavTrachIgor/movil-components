@@ -13,7 +13,7 @@
     "input",
     "game"
   ],
-  "imageURLs": [],
+  "imageURLs": ["neumorphic-trackpad-light.png", "neumorphic-trackpad-dark.png"],
   "fileURLs": [],
   "isFavorite": false,
   "createdAt": "2025-12-11T00:00:00Z",
