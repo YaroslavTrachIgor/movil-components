@@ -13,7 +13,7 @@
     "intro"
   ],
   "imageURLs": [],
-  "fileURLs": [],
+  "fileURLs": ["https://raw.githubusercontent.com/YaroslavTrachIgor/movil-components/main/assets/images/gradient-splash-view-dark.png", "https://raw.githubusercontent.com/YaroslavTrachIgor/movil-components/main/assets/images/gradient-splash-view-light.png"],
   "isFavorite": false,
   "createdAt": "2025-12-11T00:00:00Z",
   "updatedAt": "2025-12-11T00:00:00Z"
